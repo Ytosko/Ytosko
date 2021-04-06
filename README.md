@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ytosko
+- 👀 I’m interested in Coding & Chilling
+- 🌱 I’m currently learning ASP .NET Core
+- 💞️ I’m looking to collaborate on Team project on JS & Node JS
+- 📫 You can reach me at ytosko@hotmail.com
