@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Ytosko
-- 👀 I’m interested in Coding & Chilling
-- 🌱 I’m currently learning Python & ASP .NET Core
-- 💞️ I’m looking to collaborate on Team project on Python, JavaScript & Node JS
-- 📫 You can reach me at ytosko@hotmail.com
+👋 Hi, I’m @Ytosko  
+👀 I’m interested in Coding & Chilling  
+🌱 I’m currently learning Python & ASP .NET Core  
+💞️ I’m looking to collaborate on Team project on Python, JavaScript & Node JS  
+📫 You can reach me at ytosko@hotmail.com  
+🌐 [Check out my website](https://ytosko.togethercfo.com/)
